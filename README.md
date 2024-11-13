@@ -7,8 +7,8 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samuel-faith/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/3-column-preview-card-component-main/)
+- Solution URL: [Add solution URL here](https://github.com/samuel-faith/fylo-landing-page-with-two-column-layout-master)
+- Live Site URL: [Add live site URL here](https://samuel-faith.github.io/fylo-landing-page-with-two-column-layout-master/)
 
 ## My process
 
@@ -17,6 +17,7 @@ This is a solution to the [Fylo landing page with two column layout challenge on
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
